@@ -5,6 +5,8 @@ http://www.tensortoolbox.org/
 
 Quick Start: Run the file DEMO.m
 
+A backup: https://drive.google.com/drive/folders/1D3zeFPu8c2xMoX4uOgl2KepjNUA6vQjQ?usp=sharing
+
 Please contact: letrungthanhtbt@gmail.com
 
 Reference: 
